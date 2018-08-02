@@ -1,4 +1,5 @@
 ## Santiago Garcia Acosta
+![images](https://media.licdn.com/dms/image/C5603AQEHzG58MjMRBw/profile-displayphoto-shrink_200_200/0?e=1538611200&v=beta&t=TzhFpXQb4rllWrHK4BNLdugR2LuRVrdinXPslMNy-X4)
 
 You can use the [editor on GitHub](https://github.com/sxxgrc/sxxgrc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
